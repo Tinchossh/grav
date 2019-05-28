@@ -1,7 +1,9 @@
 ---
-title: Embedded Presentation
+title: 'Config Teclados IBM'
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 Example Embedded Presentation  
