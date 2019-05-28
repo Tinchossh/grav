@@ -1,7 +1,9 @@
 ---
-title: Requirements
+title: Cines
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 Lorem markdownum pius. Missa ultra adhuc ait reverti ubi soporem, **tibi iam**,
