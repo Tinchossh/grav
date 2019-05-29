@@ -8,11 +8,11 @@ taxonomy:
 ###Cambiar precio manualmente
 
 ------------
-Ingresar 7026 + Modo
-Bajar hasta precio +  Entrar
-Ingresar el codigo interno XXXXXXX y luego PLU
-Cambiar el precio y luego Entrar y fin 
-Reinicio y controlar el precio
+* Ingresar 7026 + Modo
+* Bajar hasta precio +  Entrar
+* Ingresar el codigo interno XXXXXXX y luego PLU
+* Cambiar el precio y luego Entrar y fin 
+* Reinicio y controlar el precio
 
 
 ------------
