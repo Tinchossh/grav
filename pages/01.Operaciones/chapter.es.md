@@ -1,5 +1,5 @@
 ---
-title: Sistemas
+title: Operaciones
 taxonomy:
     category: docs
 child_type: docs
@@ -7,4 +7,4 @@ child_type: docs
 
 # Operaciones
 
-Aqui encontraras los procedimientos  e informacion relevante de nuestro area
+Aqui encontraras los procedimientos  e informacion relevante de nuestro sector
