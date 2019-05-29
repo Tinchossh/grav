@@ -5,7 +5,7 @@ taxonomy:
     category: docs
 ---
 
-##Procedimiento para calibrar las balanzas ISHIDA VECTRA.
+###Procedimiento para calibrar las balanzas ISHIDA VECTRA.
 
 - Poner las pesas primero para ver si esta descalibrada (peso máximo es de 15 kg)
 - Encender y tener apretado un número cualquiera
