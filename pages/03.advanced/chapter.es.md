@@ -3,6 +3,7 @@ title: Advanced
 taxonomy:
     category: docs
 child_type: docs
+visible: false
 ---
 
 ### Chapter 3
