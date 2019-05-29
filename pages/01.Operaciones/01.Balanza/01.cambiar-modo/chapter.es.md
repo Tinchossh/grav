@@ -3,6 +3,8 @@ title: 'Cambiar Modo'
 date: '29-05-2019 14:28'
 taxonomy:
     category: docs
+routable: true
+cache_enable: true
 visible: true
 ---
 
