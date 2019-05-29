@@ -8,15 +8,15 @@ cache_enable: true
 visible: true
 ---
 
-# Ver IP
+## Ver IP
 ------------
 
 
-Ingresamos con 6000 + modo
-Bajamos hasta Ethernet
-Entrar
-Tcp IP 172.17.12.XX (varia dependiendo la sucursal)
-Reinicio
+- Ingresamos con 6000 + modo
+- Bajamos hasta Ethernet
+- Entrar
+- Tcp IP 172.17.12.XX (varia dependiendo la sucursal)
+- Reinicio
 
 ------------
 
