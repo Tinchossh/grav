@@ -13,10 +13,10 @@ Para cambiar el formato de la etiqueta en las balanzas:
 - Entrar a la balanza con 6000 + MODO
 - Opcion Etiquetas.
 - Cambiar el numero en Formato etiquetas.
-- ![](Formato_20%20.jpg)
-- ![](Formato_25%20.jpg)
-- ![](Formato_26%20.jpg)
-- ![](Formato_27%20.jpg)
+[Formato20](Formato_20%20.jpg)
+[Formato25](Formato_25%20.jpg)
+[Formato26](Formato_26%20.jpg)
+[Formato27](Formato_27%20.jpg)
 
 
 
