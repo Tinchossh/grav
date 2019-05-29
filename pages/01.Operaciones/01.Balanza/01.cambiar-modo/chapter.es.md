@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-# Cambiar modo 
+## Cambiar modo 
 ------------
 
 
