@@ -1,5 +1,6 @@
 ---
 title: 'Cambiar Formato'
+media_order: 'Formato_20 .jpg,Formato_25 .jpg,Formato_26 .jpg'
 date: '29-05-2019 14:56'
 taxonomy:
     category: docs
