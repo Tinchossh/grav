@@ -20,12 +20,13 @@ Este procedimiento borra todo lo que tiene en memoria al balanza por lo tanto ha
 
 ####Configuración del formato de etiquetas
 ------------
-Configuración del formato de etiquetas.
-1-	Ingresar en la balanza 6000 “modo” y bajar con la flecha una ve hasta legar a “formato de etiq” e ingresar con la tecla enter.
-2-	Configurar lo siguiente:
-Papel corto					papel largo
-Formato: 27 (etiqueta corta)			Formato: 25 (etiqueta larga)
- Largo +  60                            			 largo =  146
+
+* Ingresar en la balanza con 6000 + MODO y bajar con la :fa-arrow-down: ,una vez hasta llegar a **formato de etiq** e ingresar con la tecla enter.
+* Configurar lo siguiente:
+ |  Papel corto | Papel largo  									 |
+ | :------------: | :------------:								 |
+ |  Formato: 27 (etiqueta corta) | Formato: 25 (etiqueta larga)  |
+ | Largo +  60   |  Largo =  146 								 |
 
 
 
