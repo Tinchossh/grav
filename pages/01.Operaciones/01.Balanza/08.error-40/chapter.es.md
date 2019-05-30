@@ -15,13 +15,13 @@ En el caso de que una balanza presente este error se deberá:
 * Bajar 2 veces :fa-arrow-down: hasta que se muestre el mensaje **borrado ram** se confirma con la tecla enter. Dentro de esta opción se deberá hacer tres cosas:
 	* **Borra Sram** para borrar esto se deberá apretar dos veces la tecla cero , la que tiene escrito CERO no el numero. Luego bajar con la flecha a la opción siguiente.
 	* **borra conf** también se borra con la tecla que dice CERO apretándola dos veces y  se baja con la flecha.
-	***borra dato prueba** se borra igual que los anteriores.
+	* **borra dato prueba** se borra igual que los anteriores.
 Este procedimiento borra todo lo que tiene en memoria al balanza por lo tanto hay que reconfigurarla.
 
 ####Configuración del formato de etiquetas
 ------------
 
-1. Ingresar en la balanza con 6000 + MODO y bajar con la :fa-arrow-down: ,una vez hasta llegar a **formato de etiq** e ingresar con la tecla enter.
+1. Ingresar en la balanza con 6000 + MODO y bajar con las flechas ,una vez hasta llegar a **formato de etiq** e ingresar con la tecla enter.
 2. Configurar lo siguiente:
 
 ------------
@@ -41,20 +41,20 @@ Este procedimiento borra todo lo que tiene en memoria al balanza por lo tanto ha
 * Sensor de desp = 1
 
 #### Configuración de código de Barra.
-* Con 6000 + Modo :fa-arrow-down::fa-arrow-down: con la flecha ingresar en la opción **cód. Barra** y configuar los siguientes parametros: 
+* Con 6000 + Modo bajamos 2 veces con la flecha ingresar en la opción **cód. Barra** y configuar los siguientes parametros: 
 
-Pref. Eam = 002
-Pref. 10 dig = 4949
-Tipo cód. Barra = 1
-Tipo UPC = 28
-cód. Fab = 5
+* Pref. Eam = 002
+* Pref. 10 dig = 4949
+* Tipo cód. Barra = 1
+* Tipo UPC = 28
+* cód. Fab = 5
 
 #### Configurar Red
 
-Configuración :fa-arrow-right: Ethernet:fa-arrow-right:
-Gateway 172.17.12.1 (Depende de en que sucursal te encuentres)
-Mascara  255.255.255.0
-Configuración Gateway
+Configuración/ Ethernet
+* Gateway 172.17.12.1 (Depende de en que sucursal te encuentres)
+* Mascara  255.255.255.0
+* Configuración Gateway
 
 #### Configuración de la Tecla X (por) en balanzas VECTRA
 1-	entrar con 9000 + Modo ingresar a la opción tecla dir y Entrar.
@@ -63,7 +63,12 @@ Configuración Gateway
 
 Para enviar el formato de etiqueta a las balanzas luego de el borrado de la ram,
 
-Se transmiten las 3 solapas,,, ( labels-logos- field titles)
+Se transmiten las 3 solapas
+1. labels
+2. logos
+3. field titles
+
+[I-Label](i-Label.png)
 
 
 
