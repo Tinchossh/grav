@@ -6,11 +6,11 @@ taxonomy:
     category: docs
 ---
 
-###Error 40
+### Error 40
 ------------
 En el caso de que una balanza presente este error se deberá:
 
-####Borrar la Ram
+#### Borrar la Ram
 ------------
 * Apagar la Balanza con la tecla “1” apretada (si no se suelta la tecla la balanza no prendera). En el visor aparecerá el mensaje **PRUEBA**.
 * Bajar 2 veces con la flecha hasta que se muestre el mensaje **borrado ram** se confirma con la tecla enter. Dentro de esta opción se deberá hacer tres cosas:
@@ -19,7 +19,7 @@ En el caso de que una balanza presente este error se deberá:
 	* **borra dato prueba** se borra igual que los anteriores.
 Este procedimiento borra todo lo que tiene en memoria al balanza por lo tanto hay que reconfigurarla.
 
-####Configuración del formato de etiquetas
+#### Configuración del formato de etiquetas
 ------------
 
 1. Ingresar en la balanza con 6000 + MODO y bajar con las flechas ,una vez hasta llegar a **formato de etiq** e ingresar con la tecla enter.
@@ -42,6 +42,7 @@ Este procedimiento borra todo lo que tiene en memoria al balanza por lo tanto ha
 * Sensor de desp = 1
 
 #### Configuración de código de Barra.
+------------
 * Con 6000 + Modo bajamos 2 veces con la flecha ingresar en la opción **cód. Barra** y configuar los siguientes parametros: 
 
 * Pref. Eam = 002
@@ -51,13 +52,14 @@ Este procedimiento borra todo lo que tiene en memoria al balanza por lo tanto ha
 * cód. Fab = 5
 
 #### Configurar Red
-
+------------
 Configuración/ Ethernet
 * Gateway 172.17.12.1 (Depende de en que sucursal te encuentres)
 * Mascara  255.255.255.0
 * Configuración Gateway
 
 #### Configuración de la Tecla X (por) en balanzas VECTRA
+------------
 1-	entrar con 9000 + Modo ingresar a la opción tecla dir y Entrar.
 2-	Opción prefijar y presionar Entrar.
 3-	Y presionar la siguientes teclas “4”, “Avanzar”, “0” y la tecla que deseo que sea la tecla de multiplicación. Por lo general elegimos la letra “L”, presionar MODO, MODO
@@ -69,9 +71,9 @@ Se transmiten las 3 solapas
 2. logos
 3. field titles
 
-* [I-Label](i-Label.png)
+[I-Label](i-Label.png)
 
-* [Scalenet](Scalenet.png)
+[Scalenet](Scalenet.png)
 
 
 
