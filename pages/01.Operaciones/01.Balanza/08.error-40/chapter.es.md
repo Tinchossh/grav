@@ -31,6 +31,44 @@ Este procedimiento borra todo lo que tiene en memoria al balanza por lo tanto ha
  |  Formato: 27 (etiqueta corta) | Formato: 25 (etiqueta larga)  |
  | Largo +  60   |  Largo =  146 								 |
 
+[Ver Formatos de Etiquetas](http://localhost/grav/es/balanza/cambiar-formato)
+
+* Ancho = 0 
+* Sens etiq = 73
+* Continuo = 0
+* Comercio = 1
+* Títulos = 1
+* Sensor de desp = 1
+
+#### Configuración de código de Barra.
+* Con 6000 + Modo :fa-arrow-down::fa-arrow-down: con la flecha ingresar en la opción **cód. Barra** y configuar los siguientes parametros: 
+
+Pref. Eam = 002
+Pref. 10 dig = 4949
+Tipo cód. Barra = 1
+Tipo UPC = 28
+cód. Fab = 5
+
+#### Configurar Red
+
+Configuración :fa-arrow-right: Ethernet:fa-arrow-right:
+Gateway 172.17.12.1 (Depende de en que sucursal te encuentres)
+Mascara  255.255.255.0
+Configuración Gateway
+
+#### Configuración de la Tecla X (por) en balanzas VECTRA
+1-	entrar con 9000 + Modo ingresar a la opción tecla dir y Entrar.
+2-	Opción prefijar y presionar Entrar.
+3-	Y presionar la siguientes teclas “4”, “Avanzar”, “0” y la tecla que deseo que sea la tecla de multiplicación. Por lo general elegimos la letra “L”, presionar MODO, MODO
+
+Para enviar el formato de etiqueta a las balanzas luego de el borrado de la ram,
+
+Se transmiten las 3 solapas,,, ( labels-logos- field titles)
+
+
+
+
+
 ------------
 
 >>>Si encuentras algun error o procedimiento desactualizado, avisanos asi lo solucionamos.
