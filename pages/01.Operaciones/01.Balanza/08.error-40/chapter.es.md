@@ -1,5 +1,6 @@
 ---
 title: 'Error 40'
+media_order: 'i-Label.png,Scalenet.png'
 date: '29-05-2019 15:24'
 taxonomy:
     category: docs
@@ -12,7 +13,7 @@ En el caso de que una balanza presente este error se deberá:
 ####Borrar la Ram
 ------------
 * Apagar la Balanza con la tecla “1” apretada (si no se suelta la tecla la balanza no prendera). En el visor aparecerá el mensaje **PRUEBA**.
-* Bajar 2 veces :fa-arrow-down: hasta que se muestre el mensaje **borrado ram** se confirma con la tecla enter. Dentro de esta opción se deberá hacer tres cosas:
+* Bajar 2 veces con la flecha hasta que se muestre el mensaje **borrado ram** se confirma con la tecla enter. Dentro de esta opción se deberá hacer tres cosas:
 	* **Borra Sram** para borrar esto se deberá apretar dos veces la tecla cero , la que tiene escrito CERO no el numero. Luego bajar con la flecha a la opción siguiente.
 	* **borra conf** también se borra con la tecla que dice CERO apretándola dos veces y  se baja con la flecha.
 	* **borra dato prueba** se borra igual que los anteriores.
@@ -68,9 +69,9 @@ Se transmiten las 3 solapas
 2. logos
 3. field titles
 
-[I-Label](i-Label.png)
+* [I-Label](i-Label.png)
 
-
+* [Scalenet](Scalenet.png)
 
 
 
