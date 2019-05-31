@@ -1,6 +1,6 @@
 ---
 title: 'Carteles Cine R20'
-media_order: 'CARTELES-SALAS R20.pdf'
+media_order: CARTELES-SALASR20.pdf
 date: '31-05-2019 20:14'
 taxonomy:
     category: docs
@@ -11,6 +11,8 @@ taxonomy:
 
 Aqui se adjunta la Nueva disposicion de PC de carteles/salas de Cine R20 con Debian 7 y normalizacion de red
 
-[pdfjs=CARTELES-SALAS%20R20.pdf width=300 height=400]
+[pdfjs file=CARTELES-SALASR20.pdf width=300 height=400]
+
+[CARTELES-SALASR20.pdf](CARTELES-SALASR20.pdf)
 
 
