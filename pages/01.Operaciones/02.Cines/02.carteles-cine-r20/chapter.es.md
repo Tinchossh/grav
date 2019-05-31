@@ -13,7 +13,7 @@ Aqui se adjunta la Nueva disposicion de PC de carteles/salas de Cine R20 con Deb
 
 [pdfjs file=CARTELES-SALASR20.pdf width=960 height=800]
 
->? Si encuentras algun error o procedimiento desactualizado, avisanos asi lo solucionamos.
+>? [Info] encuentras algun error o procedimiento desactualizado, avisanos asi lo solucionamos.
 
 
 
