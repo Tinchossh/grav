@@ -11,7 +11,7 @@ taxonomy:
 
 Aqui se adjunta la Nueva disposicion de PC de carteles/salas de Cine R20 con Debian 7 y normalizacion de red
 
-[pdfjs file=CARTELES-SALASR20.pdf width=300 height=400]
+[pdfjs file=CARTELES-SALASR20.pdf width=500 height=800]
 
 [CARTELES-SALASR20.pdf](CARTELES-SALASR20.pdf)
 
