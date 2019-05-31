@@ -6,6 +6,7 @@ taxonomy:
 ---
 
 ### Configurar tecla multiplicar BC4000
+--------
 
 1. Ingresar con **9000** + **Modo**
 2. Presionar la tecla **4** y luego **ENTRAR**
