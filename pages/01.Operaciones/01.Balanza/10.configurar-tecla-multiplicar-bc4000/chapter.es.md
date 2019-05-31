@@ -16,6 +16,8 @@ taxonomy:
 6. **0**(numero cero)
 7. **L**(O tecla a configurar como x)
 8. **Terminar** + **Modo**
-------
+
+
+--------
 
 >>>Si encuentras algun error o procedimiento desactualizado, avisanos asi lo solucionamos.
