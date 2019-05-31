@@ -15,3 +15,7 @@ taxonomy:
 
 [Protocolo_Astra](Protocolo_Astra.pdf)
 
+--------
+
+>>>> Si encuentras algun error o procedimiento desactualizado, avisanos asi lo solucionamos.
+
