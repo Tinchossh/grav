@@ -9,7 +9,7 @@ taxonomy:
 ### Configuraciones a realizar en Debian
 --------
 
-Se adjunta procedimiento para instalar Debian 7 en Raspberry Pi
+Se adjunta procedimiento para realizar las configuraciones necesarias en Debian 7
 
 [pdfjs=Configuraciones-a-realizar-en-Debian.pdf]
 
