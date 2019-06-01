@@ -6,6 +6,11 @@ taxonomy:
 ---
 
 ### Datos de conexion R20
+--------
+
+User: ciner20
+Password: cines12345678
+
 
 |Host|Direccion IP|
 |:-----------:|:-----------:|
