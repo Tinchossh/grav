@@ -17,3 +17,7 @@ taxonomy:
 |SALA6|	172.20.10.16|
 |SALA7|	172.20.10.17|
 |OPERATIVA3	|172.20.10.18|
+
+--------
+
+>! Si encuentras algun error o procedimiento desactualizado, avisanos asi lo solucionamos.
