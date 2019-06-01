@@ -13,8 +13,6 @@ Se adjunta procedimiento para la instalacion de Debian 7
 
 [pdfjs=Instalacion-Debian-7.pdf]
 
-
-
 --------
 
 >! Si encuentras algun error o procedimiento desactualizado, avisanos asi lo solucionamos.
