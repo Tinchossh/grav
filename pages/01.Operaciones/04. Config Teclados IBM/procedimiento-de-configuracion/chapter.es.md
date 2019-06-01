@@ -29,11 +29,6 @@ Se adjuntan plantillas de teclas
 
 [Key-Labels](Teclado%20Modular%20IBM%2067-Key%20POS-Color.pdf)
 
--------
-
-
-
-
 
 --------
 
