@@ -9,6 +9,5 @@ taxonomy:
 
 Se adjunta procedimiento de clonacion mediante Clonezilla 
 
-[pdfjs=CLONACION-DE-IMAGEN-DEBIAN%207-CLONEZILLA.pdf]
+[pdfjs=CLONACION-DE-IMAGEN-DEBIAN-7-CLONEZILLA.pdf]
 
-[CLONACION-DE-IMAGEN-DEBIAN 7-CLONEZILLA.pdf](CLONACION-DE-IMAGEN-DEBIAN%207-CLONEZILLA.pdf)
