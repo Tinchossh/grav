@@ -1,12 +1,12 @@
 ---
-title: 'Instalacion Debian 7'
+title: 'Configuraciones a realizar en Debian'
 media_order: Configuraciones-a-realizar-en-Debian.pdf
 date: '31-05-2019 21:06'
 taxonomy:
     category: docs
 ---
 
-### Instalacion Debian 7
+### Configuraciones a realizar en Debian
 --------
 
 Se adjunta procedimiento para instalar Debian 7 en Raspberry Pi
