@@ -28,11 +28,11 @@ Tienen una tabla que es de usuarios en donde sale el nivel y el pass de cada uno
 
 Se adjuntan manuales de instalacion(del sistema en si) y de Usuario del sistema web
 
-[pdfjs=TiServices_v1.7a-Manual_de_Usuario.pdf]
+[pdfjs=TiServices_v1.7-Manual_de_Instalacion.pdf]
 
 ----------
 
-[pdfjs=TiServices_v1.7-Manual_de_Instalacion.pdf]
+[pdfjs=TiServices_v1.7a-Manual_de_Usuario.pdf]
 
 ----------
 
