@@ -12,8 +12,8 @@ visible: true
 Procedimiento para realizar la instalacion
 
 * Entrar como administrador  (Dinoadmin)
-* Ir a Jecutar (Ctrl + R)
-* \\operaciones-rb\e$
+* Ir a Ejecutar (Ctrl + R)
+* \\\operaciones-rb\e$
 * Buscamos la carpeta Ewave 3.0 Instalar
 * Ewave SA
 * Ejecutar el SuiteCinemaSetup.msi
@@ -33,7 +33,9 @@ Procedimiento para realizar la instalacion
 * Copiar del registro hkey_local_machine/software/ewave/ (de una maquina que ya tenga instalado ej. operaciones-rb)
 * El trialdays, installdate y el terminalId (puede ser cualquiera por ej. pv12)
 * Se lo pega en un txt, y se abre desde la PC que se instalo recién ewave, se cambia el registro con el txt
-------------------------------------
+
+---------
+
 * Configurar el autologon de Windows en el regedit
 * Probar de imprimir una entrada y reembolsarla, en la entrada impresa sale en nro de transacción para reembolsar
 
