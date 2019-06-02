@@ -11,7 +11,8 @@ taxonomy:
 Se adjunta extracto de email de Matias
 
 Les paso los manuales del sistema de cobro de GC en el cine.   
-El problema que tienen es que la caja por x causa deja de validar contra el servidor, esto hace que no te permita ingresar.    
+El problema que tienen es que la caja por x causa deja de validar contra el servidor.  
+Esto hace que no te permita ingresar.    
 
 La base está en el **Sqlcluster2**  
 Usuario **tprusr** y **tpradmin123456**  
