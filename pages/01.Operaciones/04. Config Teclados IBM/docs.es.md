@@ -6,5 +6,4 @@ taxonomy:
 visible: true
 ---
 
-Example Embedded Presentation  
-[presentation="presentations/placeholder-slide"]
+

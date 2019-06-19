@@ -1,5 +1,6 @@
 ---
 title: Operaciones
+published: true
 taxonomy:
     category: docs
 child_type: docs
