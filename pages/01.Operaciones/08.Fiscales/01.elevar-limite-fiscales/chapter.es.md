@@ -1,6 +1,6 @@
 ---
 title: 'Elevar limite fiscales'
-media_order: '1.png,2.png,3.png,4.png'
+media_order: '1.png,2.png,3.png,4.png,Epson_tope_2millones.rar'
 date: '19-06-2019 09:57'
 taxonomy:
     category: docs
@@ -8,6 +8,9 @@ taxonomy:
 
 ### Elevar limite fiscales
 ----------
+[Descargar Programa](Epson_tope_2millones.rar)
+
+
 Una vez conectada la impresora fiscal en la pc, abris el programa de Fiscal Epson y te va a aparecer la siguiente interfaz:
 
 ![VerImagen](1.png)
