@@ -25,7 +25,7 @@ taxonomy:
 
 * Ponemos los siguientes valores
 
-![Ver imagen(3.png)
+![Ver imagen](3.png)
 
 Damos OK y volvemos a la primera pantalla, vamos a Download, damos start
 
