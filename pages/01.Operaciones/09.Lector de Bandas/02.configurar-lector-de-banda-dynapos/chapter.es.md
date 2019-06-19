@@ -27,11 +27,11 @@ taxonomy:
 
 ![Ver imagen](3.png)
 
-Damos OK y volvemos a la primera pantalla, vamos a Download, damos start
+* Damos OK y volvemos a la primera pantalla, vamos a Download, damos start
 
 ![Ver imagen](4.png)
 
-Y queda listo para usar leyendo solo la primera banda de la siguiente manera
+* Y queda listo para usar leyendo solo la primera banda de la siguiente manera
 %B999997000000001234_
 
 ! Si encuentras algun error o procedimiento desactualizado, avisanos asi lo solucionamos.
