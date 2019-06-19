@@ -23,4 +23,4 @@ taxonomy:
 
 ![Ver Imagen](2.png)
 
-Para finalizar vamos a   y esperamos a que encuentre el lector, despues le damos download, el lector hara un pitido y queda configurado
+Para finalizar vamos a ![Ver Imagen](3.png)  y esperamos a que encuentre el lector, despues le damos download, el lector hara un pitido y queda configurado
