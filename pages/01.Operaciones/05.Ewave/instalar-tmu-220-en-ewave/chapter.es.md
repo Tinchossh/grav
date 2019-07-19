@@ -15,4 +15,4 @@ Para habilitarla de nuevo entrar en ewave manager > configuracion > terminales s
 
 ![Configuracion TMU-Ewave](Ewave%20TMU%20config.png)
 
-!Si encuentras algun error o procedimiento desactualizado, avisanos asi lo solucionamos.
+!  Si encuentras algun error o procedimiento desactualizado, avisanos asi lo solucionamos.
