@@ -6,5 +6,4 @@ taxonomy:
 visible: true
 ---
 
-# Cines
-:fas fa-video:
+# Cines :fas fa-video:
