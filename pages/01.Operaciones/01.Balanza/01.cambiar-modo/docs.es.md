@@ -9,8 +9,7 @@ cache_enable: true
 visible: true
 ---
 
-## Cambiar modo 
-------------
+
 
 
 * Para cambiar el modo se debe ingresar 6000 + tecla modo
