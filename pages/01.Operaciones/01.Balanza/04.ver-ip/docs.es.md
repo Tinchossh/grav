@@ -4,11 +4,13 @@ date: '29-05-2019 14:49'
 taxonomy:
     category:
         - docs
+jscomments:
+    active: true
+    provider: disqus
 routable: true
 cache_enable: true
 visible: true
 ---
-
 
 ------------
 
