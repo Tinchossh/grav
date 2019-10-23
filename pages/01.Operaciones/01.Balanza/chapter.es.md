@@ -6,5 +6,5 @@ taxonomy:
 visible: true
 ---
 
-#  Balanza :fas fa balance-scale-right:
+#  Balanza :fas fa balance-scale:
 
