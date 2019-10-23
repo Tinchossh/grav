@@ -6,7 +6,3 @@ taxonomy:
 visible: true
 ---
 
-
-
-
-:fas fa-video:
