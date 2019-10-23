@@ -2,10 +2,11 @@
 title: 'Configurar tecla multiplicar BC4000'
 date: '31-05-2019 18:08'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
-### Configurar tecla multiplicar BC4000
+
 --------
 
 1. Ingresar con **9000** + **Modo**
