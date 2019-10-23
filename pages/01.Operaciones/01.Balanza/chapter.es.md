@@ -7,5 +7,5 @@ visible: true
 ---
 
 #  Balanza 
-:fas fa weight:
+:fas fa-code fa-weight icon:
 
