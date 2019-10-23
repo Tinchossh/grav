@@ -1,8 +1,8 @@
 ---
 title: Balanza
 taxonomy:
-    category:
-        - chapter
+    category: docs
+    tag: ''
 visible: true
 ---
 
