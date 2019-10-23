@@ -2,13 +2,14 @@
 title: 'Ver IP'
 date: '29-05-2019 14:49'
 taxonomy:
-    category: docs
+    category:
+        - docs
 routable: true
 cache_enable: true
 visible: true
 ---
 
-## Ver IP
+
 ------------
 
 
