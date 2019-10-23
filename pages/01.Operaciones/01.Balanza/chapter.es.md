@@ -7,5 +7,5 @@ visible: true
 ---
 
 #  Balanza 
-:fa-code fa-spin:
+:fa-weight fa-spin:
 
