@@ -6,3 +6,4 @@ taxonomy:
 visible: true
 ---
 
+# Balanza
