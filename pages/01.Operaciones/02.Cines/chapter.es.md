@@ -1,9 +1,9 @@
 ---
-title: Cines
+title: 'Cines :fas fa-video:'
 taxonomy:
     category: docs
     tag: ''
 visible: true
 ---
 
-# Cines :fas fa-video:
+# Cines 
