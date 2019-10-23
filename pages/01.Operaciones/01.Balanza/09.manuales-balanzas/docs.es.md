@@ -3,10 +3,11 @@ title: 'Manuales Balanzas'
 media_order: 'Manual_Usuario_Ishida_Vectra.pdf,Protocolo_Astra.pdf,Manual Moretti BC4000.pdf'
 date: '30-05-2019 15:57'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
-#### Manuales de Balanzas
+
 ------------
 
 [Ishida Vectra](Manual_Usuario_Ishida_Vectra.pdf)
