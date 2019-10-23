@@ -6,5 +6,5 @@ taxonomy:
 visible: true
 ---
 
-# Balanza
-:fa-code fa-spin:
+#  :fa-code fa-spin: Balanza
+
