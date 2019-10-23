@@ -3,10 +3,11 @@ title: 'Error 40'
 media_order: 'i-Label.png,Scalenet.png'
 date: '29-05-2019 15:24'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
-### Error 40
+
 ------------
 En el caso de que una balanza presente este error se deberá:
 
