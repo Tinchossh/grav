@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+-------------
 #  Balanza 
+-------------
 :fas fa-weight:
 
