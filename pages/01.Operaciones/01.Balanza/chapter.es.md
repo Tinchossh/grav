@@ -7,4 +7,3 @@ visible: true
 ---
 
 # Balanza
-<i class="fas fa-balance-scale-right"></i>
