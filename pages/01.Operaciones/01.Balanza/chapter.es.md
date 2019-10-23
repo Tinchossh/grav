@@ -1,5 +1,5 @@
 ---
-title: ':fas fa-balance-scale:  Balanza'
+title: ':fas fa-balance-scale:  ''Balanza'''
 taxonomy:
     category: docs
     tag: ''
