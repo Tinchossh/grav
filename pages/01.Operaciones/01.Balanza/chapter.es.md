@@ -7,5 +7,5 @@ visible: true
 ---
 
 #  Balanza 
-:fas fa balance-scale:
+:fas fa weight:
 
