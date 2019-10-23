@@ -7,3 +7,4 @@ visible: true
 ---
 
 # Balanza
+:fas fa-chevron-right:
