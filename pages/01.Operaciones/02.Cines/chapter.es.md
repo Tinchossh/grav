@@ -7,3 +7,4 @@ visible: true
 ---
 
 # Cines
+:fas fa-video:
