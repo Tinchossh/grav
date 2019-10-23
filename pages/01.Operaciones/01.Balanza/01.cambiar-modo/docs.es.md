@@ -9,9 +9,7 @@ cache_enable: true
 visible: true
 ---
 
-
-
-
+------------
 * Para cambiar el modo se debe ingresar 6000 + tecla modo
 * Bajamos hasta clave
 * Buscamos la que necesitemos cambiar, la cambiamos y finalizamos con Enter
