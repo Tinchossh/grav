@@ -1,5 +1,6 @@
 ---
 title: IBM-67Keys
+media_order: IBM_67keys_Mapa.pdf
 taxonomy:
     category: docs
 visible: true
@@ -9,9 +10,9 @@ visible: true
 
 -----------
 
+[pdfjs=IBM_67keys_Mapa.pdf]
 
 
-Chapter description.
 
 ----------
 >! Si encuentras algun error o procedimiento desactualizado, avisanos asi lo solucionamos.
