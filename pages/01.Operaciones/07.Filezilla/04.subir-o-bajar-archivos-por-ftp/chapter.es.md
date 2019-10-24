@@ -9,5 +9,5 @@ taxonomy:
 # Conexion Servidor FTP
 
 -----------------
-#### Se adjunta el archivo de configuracion de Filezilla para poder enviar los cobros a Milenica.
+Se adjunta el archivo de configuracion de Filezilla para poder enviar los cobros a Milenica.
 [FileZilla.xml](FileZilla.xml)
