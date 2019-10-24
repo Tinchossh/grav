@@ -11,4 +11,3 @@ Instructivo para desbloquear y configurar los relojes llamadores de la linea de 
 
 [Desbloqueo y Configuracion de Relojes](I%20Desbloqueo%20y%20Configuracion%20de%20Relojes%20Mzo2017.pdf)
 
-[presentation="presentations/"]
