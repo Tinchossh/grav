@@ -9,7 +9,7 @@ taxonomy:
 ### Configuracion BIOS
 --------
 
-Se adjunta procedimiento para configuarar BIOS
+Se adjunta procedimiento para configurar BIOS
 
 [pdfjs=Configuracion-BIOS.pdf]
 
