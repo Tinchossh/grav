@@ -1,5 +1,6 @@
 ---
 title: 'Conexion Servidor FTP'
+media_order: FileZilla.xml
 taxonomy:
     category: docs
 ---
@@ -8,3 +9,4 @@ taxonomy:
 # Conexion Servidor FTP
 
 -----------------
+[FileZilla.xml](FileZilla.xml)
