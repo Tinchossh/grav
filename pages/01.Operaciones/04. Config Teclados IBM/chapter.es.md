@@ -1,5 +1,5 @@
 ---
-title: 'Config Teclados IBM'
+title: Teclados
 taxonomy:
     category: docs
     tag: ''
