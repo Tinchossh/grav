@@ -3,7 +3,8 @@ title: 'Procedimiento Gift Card Cines'
 media_order: 'TiServices_v1.7a-Manual_de_Usuario.pdf,TiServices_v1.7-Manual_de_Instalacion.pdf'
 date: '02-06-2019 13:08'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### Procedimiento Gift Card Cines
