@@ -6,8 +6,7 @@ taxonomy:
 visible: true
 ---
 
--------------
-#  Balanza 
--------------
-:fas fa-weight:
+# Balanza
+
+Aqui encontraras los procedimientos  e informacion relevante a la configuracion de Balanzas
 
