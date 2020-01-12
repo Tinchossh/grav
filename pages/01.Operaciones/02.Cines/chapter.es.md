@@ -1,8 +1,8 @@
 ---
 title: 'Cines '
 taxonomy:
-    category:
-        - docs
+    category: docs
+    tag: ''
 visible: true
 ---
 
