@@ -30,9 +30,12 @@ Se adjuntan manuales de instalacion(del sistema en si) y de Usuario del sistema 
 
 [pdfjs=TiServices_v1.7-Manual_de_Instalacion.pdf]
 
+
 ----------
 
+
 [pdfjs=TiServices_v1.7a-Manual_de_Usuario.pdf]
+
 
 ----------
 
