@@ -12,14 +12,11 @@ visible: true
 
 -----------------
 
-Ingresamos a la carpeta 
-![VerImagen](01.png)
+Ingresamos a la carpeta ![VerImagen](01.png)
 
-Luego a 
-![VerImagen](02.png)
+Luego a ![VerImagen](02.png)
 
-Y luego a 
-![VerImagen](03.png)
+Y luego a ![VerImagen](03.png)
 
 Una vez aqui ejecutamos
 ![VerImagen](04.png)
