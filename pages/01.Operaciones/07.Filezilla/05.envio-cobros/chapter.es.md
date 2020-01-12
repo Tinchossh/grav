@@ -27,6 +27,8 @@ Una vez aquí vamos al Filezilla y nos conectamos
 ![VerImagen](05.png)
 
 Pasamos cada archivo txt a la cuenta correspondiente
-![](06.png)
+![VerImagen](06.png)
 
 Una vez realizado, movemos los txt de la carpeta de expensas al mes correspondiente y con esto quedaria realizado el procedimiento de envio de cobros.
+
+! Si encuentras algun error o procedimiento desactualizado, avisanos asi lo solucionamos.
