@@ -1,6 +1,6 @@
 ---
 title: 'Configuracion Cinexo'
-media_order: '01.png,02.png,03.png,04.png,05.png,06.png,07.png,08.png,09.png,10.png,11.png'
+media_order: '01.png,02.png,03.png,04.png,05.png,06.png,07.png,08.png,09.png,10.png,11.png,12.png,13.png,14.png,15.png,16.png,17.png,18.png,19.png,20.png,21.png,22.png,23.png,24.png'
 taxonomy:
     category: docs
 ---
@@ -77,4 +77,32 @@ Detectar el número de puerto COM de impresora fiscal en administrador de dispos
 ![K](11.png)
 
 Abrir preferencias de Tray Server y seleccionar modelo de impresora fiscal y puerto COM en el que se encuentra (Click derecho en icono al lado de reloj)
+
+![L](12.png)
+
+![M](13.png)
+
+Crear accesos directos en escritorio para frontend y backend de sistema Candy y Boletería (Cambiar a IP de servidor local de su sucursal). URLS:
+
+> Cambiar xx por el octeto de la sucursal
+
+**Frontend Candy**
+http://172.xx.2.80/5.0/Candy/front/candy 
+
+**Backend Candy**
+
+http://172.xx.2.80/5.0/Candy/back/candy
+
+**Boleteria**
+
+http://172.xx.2.80/5.0/Boleteria/admin/app/Login.php
+
+
+Configurar Autogon con el usuario creado para las cajas
+**Aplicacion** : Autologon.exe
+
+![N](14.png)
+
+Va a solicitar aceptar los términos y condiciones la primera vez que se ejecuta, dar permisos de administrador, click en “Agree” y completar los datos del usuario creado para caja (Usuario, nombre de dominio “DINOSAURIO” y clave.
+
 
