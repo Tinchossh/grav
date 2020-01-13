@@ -1,6 +1,6 @@
 ---
 title: 'Configuracion Cinexo'
-media_order: '01.png,02.png,03.png,04.png,05.png'
+media_order: '01.png,02.png,03.png,04.png,05.png,06.png,07.png,08.png,09.png,10.png,11.png'
 taxonomy:
     category: docs
 ---
@@ -9,7 +9,7 @@ taxonomy:
 -------------
 
 
-Para realizar la instalacion del sistema Cinexo se debe acceder a la carpeta ubicada en la siguiente ruta [\\operaciones-rb\Cinexo](\\operaciones-rb\Cinexo "\\operaciones-rb\Cinexo")
+Para realizar la instalacion del sistema Cinexo se debe acceder a la carpeta ubicada en la siguiente ruta \\operaciones-rb\Cinexo
 
 Instalar Java (Versión 1.8 para arriba, 32 o 64 bits según el sistema operativo que se esté usando)
 
@@ -39,3 +39,42 @@ En este paso hay que conectar la impresora térmica, encenderla y tocar “Acept
 
 
 El instalador de impresora completara los pasos y aparecerá una nueva impresora con el nombre “MP-4200 TH”. Probablemente por problemas de bloqueo de firewall de la red de Dinosaurio a los servidores de Microsoft, en este paso la impresora quede “instalando” y no se vea como impresora durante un largo rato (Se ve como “no especificado” dentro del panel de impresoras de Windows, ver paso 12 para llegar a ese panel) hay que esperar que figure correctamente como impresora.
+
+Cambiar el nombre de la impresora térmica de entradas a "caja" y seleccionar driver a “Generic/Text Only” (Los pasos pueden variar según la versión de Windows 10)
+
+1. Abrir panel de control clásico (Win+R, escribir control + enter)
+2. En el buscador arriba a la derecha escribir “impresora”
+3. Click en “Ver dispositivos e impresoras”
+4. Hacer doble click en la impresora recién instalada
+
+![F](06.png)
+
+Cuando se abra la cola de impresión, tocar impresora -> propiedades
+
+![G](07.png)
+5. Cambiar nombre a “Caja”
+
+![H](08.png)
+
+Seleccionar driver “Generic/Text Only” en pestaña “opciones avanzadas”
+
+![I](09.png)
+
+Cerrar sesión dinoadmin e iniciar usuario nuevo con el que se va a facturar (Usuario no administrador)
+
+Copiar el "Tray Server.lnk" (Acceso directo de Tray Server que se crea automáticamente en el escritorio tras instalación) a c$\Users\[USUARIO QUE SE VA A UTILIZAR PARA FACTURAR]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ para que se ejecute automáticamente en el arranque
+
+Crear acceso directo en el escritorio a QZ TRay (c$\Program Files\QZ Tray\qz-tray.exe)
+
+Configurar Google Chrome como navegador por defecto en Windows 10 (Puede abrirse aplicación y pedirá solo configurarse a sí mismo como navegador por defecto)
+
+Crear acceso directo a cola de impresión de impresora térmica de entradas en escritorio
+
+![J](10.png)
+
+Detectar el número de puerto COM de impresora fiscal en administrador de dispositivos
+
+![K](11.png)
+
+Abrir preferencias de Tray Server y seleccionar modelo de impresora fiscal y puerto COM en el que se encuentra (Click derecho en icono al lado de reloj)
+
