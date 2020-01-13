@@ -9,7 +9,7 @@ taxonomy:
 -------------
 
 
-Para realizar la instalacion del sistema Cinexo se debe acceder a la carpeta ubicada en la siguiente ruta \\operaciones-rb\Cinexo
+* Para realizar la instalacion del sistema Cinexo se debe acceder a la carpeta ubicada en la siguiente ruta \\operaciones-rb\Cinexo
 
 Instalar Java (Versión 1.8 para arriba, 32 o 64 bits según el sistema operativo que se esté usando)
 
