@@ -1,5 +1,6 @@
 ---
 title: 'Configuracion Cinexo'
+media_order: '01.png,02.png,03.png,04.png,05.png'
 taxonomy:
     category: docs
 ---
@@ -22,8 +23,18 @@ Instalar Google Chrome
 
 Instalar impresora térmica de entradas. En el caso de ser una Bematech MP4200-TH usar el instalador BemaSetup_MP4K_x64_v4.1.1.exe (64bits) o el LciSetup_LR3K_v4.1.1.exe (32bits)
 
+![A](01.png)
+
+![B](02.png)
+
+![C](03.png)
+
+![D](04.png)
+
 
 En este paso hay que conectar la impresora térmica, encenderla y tocar “Aceptar”
+
+![E](05.png)
 
 
 
