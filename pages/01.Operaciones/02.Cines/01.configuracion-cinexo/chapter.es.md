@@ -9,19 +9,19 @@ taxonomy:
 -------------
 
 
-* Para realizar la instalacion del sistema Cinexo se debe acceder a la carpeta ubicada en la siguiente ruta \\operaciones-rb\Cinexo
+1. Para realizar la instalacion del sistema Cinexo se debe acceder a la carpeta ubicada en la siguiente ruta \\operaciones-rb\Cinexo
 
-Instalar Java (Versión 1.8 para arriba, 32 o 64 bits según el sistema operativo que se esté usando)
+2. Instalar Java (Versión 1.8 para arriba, 32 o 64 bits según el sistema operativo que se esté usando)
 
-Instalar Tray Server (Aplicación de Cinexo para manejo de impresora fiscal)
+3. Instalar Tray Server (Aplicación de Cinexo para manejo de impresora fiscal)
 
-Instalar QZ Tray (Aplicación Open-Source para control de impresora térmica)
+4. Instalar QZ Tray (Aplicación Open-Source para control de impresora térmica)
 
-Al finalizar la instalación QZ Tray, tocar botón derecho en el icono verde que aparece al lado del reloj en la barra de tareas y marcar opción "Automatically Start" (Arranque automático)
+5. Al finalizar la instalación QZ Tray, tocar botón derecho en el icono verde que aparece al lado del reloj en la barra de tareas y marcar opción "Automatically Start" (Arranque automático)
 
-Instalar Google Chrome
+6. Instalar Google Chrome
 
-Instalar impresora térmica de entradas. En el caso de ser una Bematech MP4200-TH usar el instalador BemaSetup_MP4K_x64_v4.1.1.exe (64bits) o el LciSetup_LR3K_v4.1.1.exe (32bits)
+7. Instalar impresora térmica de entradas. En el caso de ser una Bematech MP4200-TH usar el instalador BemaSetup_MP4K_x64_v4.1.1.exe (64bits) o el LciSetup_LR3K_v4.1.1.exe (32bits)
 
 ![A](01.png)
 
@@ -32,57 +32,57 @@ Instalar impresora térmica de entradas. En el caso de ser una Bematech MP4200-T
 ![D](04.png)
 
 
-En este paso hay que conectar la impresora térmica, encenderla y tocar “Aceptar”
+8. En este paso hay que conectar la impresora térmica, encenderla y tocar “Aceptar”
 
 ![E](05.png)
 
 
 
-El instalador de impresora completara los pasos y aparecerá una nueva impresora con el nombre “MP-4200 TH”. Probablemente por problemas de bloqueo de firewall de la red de Dinosaurio a los servidores de Microsoft, en este paso la impresora quede “instalando” y no se vea como impresora durante un largo rato (Se ve como “no especificado” dentro del panel de impresoras de Windows, ver paso 12 para llegar a ese panel) hay que esperar que figure correctamente como impresora.
+9. El instalador de impresora completara los pasos y aparecerá una nueva impresora con el nombre “MP-4200 TH”. Probablemente por problemas de bloqueo de firewall de la red de Dinosaurio a los servidores de Microsoft, en este paso la impresora quede “instalando” y no se vea como impresora durante un largo rato (Se ve como “no especificado” dentro del panel de impresoras de Windows, ver paso 12 para llegar a ese panel) hay que esperar que figure correctamente como impresora.
 
-Cambiar el nombre de la impresora térmica de entradas a "caja" y seleccionar driver a “Generic/Text Only” (Los pasos pueden variar según la versión de Windows 10)
+10. Cambiar el nombre de la impresora térmica de entradas a "caja" y seleccionar driver a “Generic/Text Only” (Los pasos pueden variar según la versión de Windows 10)
 
-1. Abrir panel de control clásico (Win+R, escribir control + enter)
-2. En el buscador arriba a la derecha escribir “impresora”
-3. Click en “Ver dispositivos e impresoras”
-4. Hacer doble click en la impresora recién instalada
+*  Abrir panel de control clásico (Win+R, escribir control + enter)
+*  En el buscador arriba a la derecha escribir “impresora”
+*  Click en “Ver dispositivos e impresoras”
+*  Hacer doble click en la impresora recién instalada
 
 ![F](06.png)
 
-Cuando se abra la cola de impresión, tocar impresora -> propiedades
+11. Cuando se abra la cola de impresión, tocar impresora -> propiedades
 
 ![G](07.png)
-5. Cambiar nombre a “Caja”
+*  Cambiar nombre a “Caja”
 
 ![H](08.png)
 
-Seleccionar driver “Generic/Text Only” en pestaña “opciones avanzadas”
+12. Seleccionar driver “Generic/Text Only” en pestaña “opciones avanzadas”
 
 ![I](09.png)
 
-Cerrar sesión dinoadmin e iniciar usuario nuevo con el que se va a facturar (Usuario no administrador)
+13. Cerrar sesión dinoadmin e iniciar usuario nuevo con el que se va a facturar (Usuario no administrador)
 
-Copiar el "Tray Server.lnk" (Acceso directo de Tray Server que se crea automáticamente en el escritorio tras instalación) a c$\Users\[USUARIO QUE SE VA A UTILIZAR PARA FACTURAR]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ para que se ejecute automáticamente en el arranque
+14. Copiar el "Tray Server.lnk" (Acceso directo de Tray Server que se crea automáticamente en el escritorio tras instalación) a c$\Users\[USUARIO QUE SE VA A UTILIZAR PARA FACTURAR]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ para que se ejecute automáticamente en el arranque
 
-Crear acceso directo en el escritorio a QZ TRay (c$\Program Files\QZ Tray\qz-tray.exe)
+15. Crear acceso directo en el escritorio a QZ TRay (c$\Program Files\QZ Tray\qz-tray.exe)
 
-Configurar Google Chrome como navegador por defecto en Windows 10 (Puede abrirse aplicación y pedirá solo configurarse a sí mismo como navegador por defecto)
+16.Configurar Google Chrome como navegador por defecto en Windows 10 (Puede abrirse aplicación y pedirá solo configurarse a sí mismo como navegador por defecto)
 
-Crear acceso directo a cola de impresión de impresora térmica de entradas en escritorio
+17.Crear acceso directo a cola de impresión de impresora térmica de entradas en escritorio
 
 ![J](10.png)
 
-Detectar el número de puerto COM de impresora fiscal en administrador de dispositivos
+18.Detectar el número de puerto COM de impresora fiscal en administrador de dispositivos
 
 ![K](11.png)
 
-Abrir preferencias de Tray Server y seleccionar modelo de impresora fiscal y puerto COM en el que se encuentra (Click derecho en icono al lado de reloj)
+19.Abrir preferencias de Tray Server y seleccionar modelo de impresora fiscal y puerto COM en el que se encuentra (Click derecho en icono al lado de reloj)
 
 ![L](12.png)
 
 ![M](13.png)
 
-Crear accesos directos en escritorio para frontend y backend de sistema Candy y Boletería (Cambiar a IP de servidor local de su sucursal). URLS:
+20. Crear accesos directos en escritorio para frontend y backend de sistema Candy y Boletería (Cambiar a IP de servidor local de su sucursal). URLS:
 
 > Cambiar xx por el octeto de la sucursal
 
