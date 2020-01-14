@@ -105,4 +105,69 @@ Configurar Autogon con el usuario creado para las cajas
 
 Va a solicitar aceptar los términos y condiciones la primera vez que se ejecuta, dar permisos de administrador, click en “Agree” y completar los datos del usuario creado para caja (Usuario, nombre de dominio “DINOSAURIO” y clave.
 
+Configurar barra de tareas para que siempre muestre todos los iconos
+
+1. Botón derecho sobre el reloj de la barra de tareas - > Configuración de barra de tareas
+2. Click en “Seleccionar los iconos que aparecerán en la barra de tareas”
+
+![O](15.png)
+
+3. Activar “Mostrar siempre todos los iconos en el área de notificación”
+
+![P](16.png)
+
+4. Cambiar plan de energía a “Alto Rendimiento” para evitar suspensión de dispositivos USB/PCI Express
+	* Abrir panel de control (Win+R, escribir “control” + enter)
+	* En el buscador de arriba a la derecha escribir “Energia”
+	* Hacer click en la opción “Cambiar la configuración para ahorrar energía”
+
+![Q](17.png)
+
+	* Seleccionar plan “Alto Rendimiento”
+
+![R](18.png)
+
+	* Reiniciar. Si todo funciona correctamente, debe arrancar la computadora, iniciar sesión automáticamente, ejecutar Tray Server y QZ Tray, y quedar dichos iconos en verde en la barra de tareas.
+	* Abrir acceso directo de Frontend de Candy en Chrome, y cuando QZ Tray muestre un cuadro de dialogo informando que “Cinexo Soluciones” pide acceso a la impresora, poner que sí y marcar la opción de recordar.
+
+
+**Errores posibles:**
+
+1. No aparece alguno de los dos iconos en la barra de tareas (Tray Server o QZ Tray). Verificar cual es el que falta y reinstalar inicio automático, en el caso de Tray Server copiando el acceso directo y en el caso de QZ Tray abriendo la aplicación y seleccionando con el botón derecho "Automatically Start"
+2. Al ejecutar Tray Server da un error de .dll faltante al iniciar. Reinstalar Tray Server (InstaladorTS.exe), ya que le agrega unas .dll a la carpeta de Java y a veces falla en copiar los archivos.
+3. Si no se ejecuta el .JAR de Tray Server al clickear el archivo .lnk (Acceso directo) creado en el escritorio o al querer abrir directamente la aplicación .JAR, ejecutar “Jarfix.exe” con permisos de administrador y queda funcionando.
+
+**Habilitación conexión remota para personal de Cinexo:**
+En el caso que el personal de Cinexo les solicite acceso remoto a la computadora, seguir los siguientes pasos para activar RDP:
+1. Tocar botón de inicio de Windows
+2. Tocar icono de engranaje que sale arriba del icono de encendido
+3. Buscar “remoto” en el buscador central que aparece arriba del panel de configuración de Windows
+4. Hacer click en configuración de escritorio remoto
+
+![S](19.png)
+
+5. Hacer click en “Habilitar Escritorio remoto”
+
+![T](20.png)
+
+6. Desplazarse con la barra lateral hacia abajo y hacer click en “Seleccione los usuarios que pueden tener acceso remoto a este equipo”
+
+![U](21.png)
+
+7. Click en “Agregar”
+
+![V](22.png)
+
+8. Escribir “soportecinexo” y tocar donde dice “Comprobar nombres” (Si pide usuario y clave para comprobar el nombre usar “oper.sistemas” y la clave correspondiente)
+
+![W](23.png)
+
+9. Debe quedar de la siguiente manera, si queda así, tocar aceptar.
+
+![Y](24.png)
+
+Una vez realizado queda concluido el procedimiento para instalacion de Cinexo. Se deberan probar ambas impresoras.
+
+
+
 
