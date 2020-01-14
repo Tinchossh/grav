@@ -1,5 +1,5 @@
 ---
-title: 'Ewave (En desuso) [Ver Cinexo](Configuracion-Cinexo)'
+title: 'Ewave (En desuso)'
 taxonomy:
     category: docs
     tag: ''
@@ -10,4 +10,3 @@ visible: true
 
 Aqui encontraras los procedimientos  e informacion relevante a Ewave (Desuso - ver  Cinexo)
 
-[]()
