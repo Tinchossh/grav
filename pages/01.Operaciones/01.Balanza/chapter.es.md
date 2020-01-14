@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-# Balanza
+# :fa fa-balance-scale: Balanza
 
 Aqui encontraras los procedimientos  e informacion relevante a la configuracion de Balanzas
 
