@@ -6,6 +6,6 @@ taxonomy:
 visible: true
 ---
 
-# :fa fa-ticket-alt: Cines
+# :fa fa-film: Cines
 
 Aqui encontraras los procedimientos  e informacion relevante a los sistemas del Cine
