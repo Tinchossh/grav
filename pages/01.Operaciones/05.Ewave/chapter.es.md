@@ -1,5 +1,5 @@
 ---
-title: Ewave
+title: 'Ewave (En desuso)'
 taxonomy:
     category: docs
     tag: ''
