@@ -6,6 +6,6 @@ taxonomy:
 visible: true
 ---
 
-# :fa fa-laptop-medical: Farmacia
+# :fas fa-laptop-medical: Farmacia
 
 Aqui encontraras los procedimientos  e informacion relevante al sector Farmacia
