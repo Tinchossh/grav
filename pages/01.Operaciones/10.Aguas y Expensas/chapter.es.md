@@ -6,4 +6,4 @@ taxonomy:
 visible: true
 ---
 
-# :fa fa-tint: Aguas - :fa fa-file-invoice: Expensas
+# :fa fa-tint: Aguas - :fa fa-file-receipt: Expensas
