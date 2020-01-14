@@ -6,6 +6,6 @@ taxonomy:
 visible: true
 ---
 
-# :fa fa-band-aid: Farmacia
+# ![](band-aid.svg) Farmacia
 
 Aqui encontraras los procedimientos  e informacion relevante al sector Farmacia
