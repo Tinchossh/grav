@@ -6,6 +6,6 @@ taxonomy:
 visible: true
 ---
 
-# Cines
+# :fa fa-popcorn: Cines
 
 Aqui encontraras los procedimientos  e informacion relevante a los sistemas del Cine
