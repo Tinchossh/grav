@@ -6,6 +6,6 @@ taxonomy:
 child_type: docs
 ---
 
-# Operaciones
+# :fas fa-desktop: Operaciones
 
 Aqui encontraras los procedimientos  e informacion relevante de nuestro sector
