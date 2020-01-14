@@ -6,6 +6,6 @@ taxonomy:
 visible: true
 ---
 
-# :fa fa-mortar-pastle: Farmacia
+# :fa fa-band-aid: Farmacia
 
 Aqui encontraras los procedimientos  e informacion relevante al sector Farmacia
