@@ -123,12 +123,12 @@ Configurar barra de tareas para que siempre muestre todos los iconos
 
 ![Q](17.png)
 
-	* Seleccionar plan “Alto Rendimiento”
+* Seleccionar plan “Alto Rendimiento”
 
 ![R](18.png)
 
-	* Reiniciar. Si todo funciona correctamente, debe arrancar la computadora, iniciar sesión automáticamente, ejecutar Tray Server y QZ Tray, y quedar dichos iconos en verde en la barra de tareas.
-	* Abrir acceso directo de Frontend de Candy en Chrome, y cuando QZ Tray muestre un cuadro de dialogo informando que “Cinexo Soluciones” pide acceso a la impresora, poner que sí y marcar la opción de recordar.
+* Reiniciar. Si todo funciona correctamente, debe arrancar la computadora, iniciar sesión automáticamente, ejecutar Tray Server y QZ Tray, y quedar dichos iconos en verde en la barra de tareas.
+* Abrir acceso directo de Frontend de Candy en Chrome, y cuando QZ Tray muestre un cuadro de dialogo informando que “Cinexo Soluciones” pide acceso a la impresora, poner que sí y marcar la opción de recordar.
 
 
 **Errores posibles:**
