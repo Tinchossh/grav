@@ -1,5 +1,5 @@
 ---
-title: ':fa fa-desktop: Operaciones'
+title: Operaciones
 published: true
 taxonomy:
     category: docs
