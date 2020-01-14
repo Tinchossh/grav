@@ -1,8 +1,8 @@
 ---
 title: Filezilla
 taxonomy:
-    category:
-        - docs
+    category: docs
+    tag: ''
 visible: true
 ---
 
