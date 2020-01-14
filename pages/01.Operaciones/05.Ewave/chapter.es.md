@@ -8,5 +8,5 @@ visible: true
 
 # Ewave
 
-Aqui encontraras los procedimientos  e informacion relevante a Ewave (Desuso - ver  Cinexo)
+Aqui encontraras los procedimientos  e informacion relevante a Ewave (Desuso - [ver  Cinexo](/operaciones/cines/configuracion-cinexo))
 
