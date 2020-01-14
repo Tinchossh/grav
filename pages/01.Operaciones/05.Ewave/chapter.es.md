@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-# Ewave
+# Ewave (En Desuso) [Ver Cinexo](/operaciones/cines/configuracion-cinexo)
 
 Aqui encontraras los procedimientos  e informacion relevante a Ewave (Desuso - [ver  Cinexo](/operaciones/cines/configuracion-cinexo))
 
