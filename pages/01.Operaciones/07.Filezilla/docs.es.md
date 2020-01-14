@@ -6,4 +6,6 @@ taxonomy:
 visible: true
 ---
 
-  :fa fa-upload: FileZilla
+#  :fa fa-upload: Filezilla
+
+Aqui encontraras los procedimientos  e informacion relevante a Filezilla
