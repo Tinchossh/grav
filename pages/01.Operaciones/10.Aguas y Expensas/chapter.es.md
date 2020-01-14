@@ -6,4 +6,4 @@ taxonomy:
 visible: true
 ---
 
-# :fa fa-tint: Aguas - :fa fa-stamp: Expensas
+# :fa fa-tint: Aguas - :fa fa-donate: Expensas
