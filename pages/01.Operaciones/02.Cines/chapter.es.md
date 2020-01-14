@@ -6,6 +6,6 @@ taxonomy:
 visible: true
 ---
 
-# :fa fa-film: Cines
+# :fas fa-film: Cines
 
 Aqui encontraras los procedimientos  e informacion relevante a los sistemas del Cine
