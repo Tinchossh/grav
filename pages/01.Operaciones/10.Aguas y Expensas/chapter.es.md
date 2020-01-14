@@ -6,6 +6,6 @@ taxonomy:
 visible: true
 ---
 
-# :fa fa-tint: Aguas - :fa fa-coins: Expensas
+# :fa fa-tint: :fa fa-coins: Aguas - Expensas
 
 Aqui encontraras los procedimientos  e informacion relevante a el envio de Aguas y Expensas
